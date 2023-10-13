@@ -35,3 +35,7 @@ There are two cases:
   This can happen for instance after following the [`TestLinkedFile.md`](./TestLinkedFile.md) above, which takes it to the `tree/branch-name/path/to/file` style link, and then the `README.md` link in that file, which retains that sub-path.
 
   In this case, the link in the note block is rendered as expected (relative to the source tree).
+
+## See Also
+
+Github bug filed under <https://support.github.com/ticket/personal/0/2377367>
